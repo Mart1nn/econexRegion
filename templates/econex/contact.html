@@ -1,0 +1,38 @@
+{% include "econex/link.html" %}
+
+<body class="is-preload">
+	<!-- Wrapper -->
+	<div id="wrapper">
+
+		<!-- Main -->
+		<div id="main">
+			<div class="inner">
+
+				<!-- Header -->
+				<header id="header">
+					<h1><a href="{% url 'posts_list_url'%}" class="logo"><strong>Эконекс</strong> Регион</a></h1>
+
+				</header>
+
+				<!-- Banner -->
+				<section id="banner">
+					<div class="content">
+						<header>
+
+							<h3>
+								<p style="color: #f56a6a !important;">Спасибо {{ user_name }} за оставленную заявку</p>
+								<p style="color: #f56a6a !important;">Мы свяжемся с вами в ближайшее время</p>
+							</h3>
+							<ul class="actions">
+								<li><a href="{% url 'posts_list_url'%}" class="button big">На главную</a></li>
+							</ul>
+					</div>
+					<span class="image object">
+						<img src="media/glav.jpeg" alt="" />
+					</span>
+				</section>
+
+				{% include "econex/scripts.html"%}
+
+				<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+</body>

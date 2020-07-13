@@ -1,0 +1,101 @@
+{% include "econex/link.html" %}
+
+{% include "econex/link.html" %}
+
+<body class="is-preload">
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+        <!-- Main -->
+        <div id="main">
+            <div class="inner">
+
+                <!-- Header -->
+                <header id="header">
+                    <h1><a href="{% url 'posts_list_url'%}" class="logo"><strong>Эконекс</strong> Регион</a></h1>
+
+                </header>
+
+                <!-- Banner -->
+                <section id="banner">
+                    <div class="content">
+                        <header>
+                            <h1>{{ seria.name }}</h1>
+                            <h2 style="color: #f56a6a;">
+                                <p></p>
+                            </h2>
+                        </header>
+                        <p>{{seria.desc}}</p>
+                        <p>{{seria.get_lm}}</p>
+                        <p>{{seria.get_vt}}</p>
+                        <h3>
+                            <p style="color: #f56a6a !important;">НЕТ ВРЕМЕНИ ВЫБИРАТЬ СВЕТИЛЬНИКИ?</p>
+                        </h3>
+                        <ul class="actions">
+                            <li><a href="#anchor_form" class="button big">Напишите нам!</a></li>
+                        </ul>
+                    </div>
+                    <span class="image object">
+                        {%if seria.image %}
+                        <a href="{% url 'seria_detail_url' seria.pk %}" class="image"><img src="{{ seria.image.url }}"
+                                style="background: #f5f6f7;" alt=""></a>
+                        {% endif %}
+                    </span>
+                </section>
+
+
+                <div class="products-modification__table">
+                    <table class="table-products">
+                        <thead>
+                            <tr>
+                                <th>Наименование, артикул</th>
+                                <th>Мощность, Вт</th>
+                                <th>Световой поток, Лм</th>
+                                <th>Эффективность, Лм/Вт</th>
+                                <th>Размер, мм</th>
+                                <th>Цена</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for model in seria.osveshmodel_set.all %}
+                            <tr>
+                                <td style="color: #f56a6a;">
+                                    {{model.name}}
+                                    <br>
+                                    <span style="color: #7f888f;">6310431</span>
+                                </td>
+                                <td>{{model.power}}</td>
+                                <td>{{model.light}}</td>
+                                <td>{{model.efficincy}}</td>
+                                <td>{{model.size}}</td>
+                                <td>
+                                    <div class="get-price-form" data-box-title="Цена">{{model.price}}
+                                        {% widthratio model.price 1 2 %} ₽</div>
+                                </td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+
+                <div id="anchor_form">
+                    {% include "econex/form.html" %}
+                </div>
+            </div>
+        </div>
+        {% include "econex/sidebar.html" %}
+
+    </div>
+    {% block "content" %}
+    {% endblock %}
+
+
+
+
+
+    {% include "econex/scripts.html"%}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+</body>
+
+</html>

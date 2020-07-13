@@ -1,0 +1,89 @@
+{% include "econex/link.html" %}
+
+<body class="is-preload">
+	<!-- Wrapper -->
+	<div id="wrapper">
+
+		<!-- Main -->
+		<div id="main">
+			<div class="inner">
+
+				<!-- Header -->
+				<header id="header">
+					<h1><a href="{% url 'posts_list_url'%}" class="logo"><strong>Эконекс</strong> Регион</a></h1>
+				</header>
+
+				<!-- Banner -->
+				<section id="banner">
+					<div class="content">
+						<header>
+							<h2 style="color: #f56a6a;">
+								<p>При покупке от 5 фонарей скидка 5%</p>
+							</h2>
+						</header>
+						<p>Представляем светодиодные светильники для всех типов освещения — от уличного до бытового и
+							офисного. Светодиодная продукция премиум-класса</p>
+						<h3>
+							<p style="color: #f56a6a !important;">НЕТ ВРЕМЕНИ ВЫБИРАТЬ СВЕТИЛЬНИКИ?</p>
+						</h3>
+						<ul class="actions">
+							<li><a href="#anchor_form" class="button big">Напишите нам!</a></li>
+						</ul>
+					</div>
+					<span class="image object">
+						<img src="media/glav.jpeg" alt="" />
+					</span>
+				</section>
+
+				<!-- Section -->
+
+
+				{% for category in categores %}
+				<section id="category-{{category.pk}}">
+					<header class="major">
+						<h2>{{ category.name }}</h2>
+					</header>
+					<div class="posts">
+						{% for seria in category.seria_set.all %}
+						<article>
+							<h3>{{seria.name}}</h3>
+							<p>{{seria.type}}</p>
+							{%if seria.image %}
+							<a href="{% url 'seria_detail_url' seria.pk %}" class="image"><img
+									src="{{ seria.image.url }}" style="background: #f5f6f7;" alt=""></a>
+							{% endif %}
+							<p>{{seria.get_lm}}</p>
+							<p>{{seria.get_vt}}</p>
+							<br>
+							<ul class="actions">
+								<li><a href="{% url 'seria_detail_url' seria.pk %}" class="button">Смотреть</a></li>
+							</ul>
+						</article>
+						{% endfor %}
+					</div>
+				</section>
+				{% endfor %}
+
+				<!--  form  -->
+				<div id="anchor_form">
+					{% include "econex/form.html" %}
+				</div>
+			</div>
+		</div>
+		{% include "econex/sidebar.html" %}
+
+	</div>
+	{% block "content" %}
+	{% endblock %}
+
+
+
+
+
+	{% include "econex/scripts.html"%}
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,3232 @@
+[
+    {
+        "name": "Наружное освещение",
+        "series": [
+            {
+                "name": "Серия Road",
+                "type": "Уличный светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex Road 20 W3 5000K",
+                        "article": "2102014",
+                        "power": "28",
+                        "light": "3800",
+                        "efficiency": "136",
+                        "size": "358х195х100"
+                    },
+                    {
+                        "name": "Светильник Econex Road 40 W3 5000K",
+                        "article": "2104014",
+                        "power": "36",
+                        "light": "4900",
+                        "efficiency": "136",
+                        "size": "358х195х100"
+                    },
+                    {
+                        "name": "Светильник Econex Road 60 W3 5000K",
+                        "article": "2106014",
+                        "power": "54",
+                        "light": "7400",
+                        "efficiency": "137",
+                        "size": "358х195х100"
+                    },
+                    {
+                        "name": "Светильник Econex Road 80 W3 5000K",
+                        "article": "2108014",
+                        "power": "70",
+                        "light": "9600",
+                        "efficiency": "137",
+                        "size": "570х195х100"
+                    },
+                    {
+                        "name": "Светильник Econex Road 80 W3 5000K ND",
+                        "article": "2108017",
+                        "power": "70",
+                        "light": "9600",
+                        "efficiency": "137",
+                        "size": "570х195х100"
+                    },
+                    {
+                        "name": "Светильник Econex Road 120 W3 5000K",
+                        "article": "2112014",
+                        "power": "105",
+                        "light": "14400",
+                        "efficiency": "137",
+                        "size": "710х195х100"
+                    },
+                    {
+                        "name": "Светильник Econex Road 120 W3 5000K ND",
+                        "article": "2112017",
+                        "power": "105",
+                        "light": "14400",
+                        "efficiency": "137",
+                        "size": "710х195х100"
+                    },
+                    {
+                        "name": "Светильник Econex Road 120 W2 5000K",
+                        "article": "2112024",
+                        "power": "105",
+                        "light": "14300",
+                        "efficiency": "136",
+                        "size": "710х195х100"
+                    },
+                    {
+                        "name": "Светильник Econex Road 120 W2 5000K ND",
+                        "article": "2112027",
+                        "power": "105",
+                        "light": "14300",
+                        "efficiency": "136",
+                        "size": "710х195х100"
+                    },
+                    {
+                        "name": "Светильник Econex Road 160 W3 5000K",
+                        "article": "2116014",
+                        "power": "140",
+                        "light": "19100",
+                        "efficiency": "136",
+                        "size": "940х195х100"
+                    },
+                    {
+                        "name": "Светильник Econex Road 160 W3 5000K ND",
+                        "article": "2116017",
+                        "power": "140",
+                        "light": "19100",
+                        "efficiency": "136",
+                        "size": "940х195х100"
+                    },
+                    {
+                        "name": "Светильник Econex Road 160 W2 5000K",
+                        "article": "2116024",
+                        "power": "140",
+                        "light": "18900",
+                        "efficiency": "135",
+                        "size": "940х195х100"
+                    },
+                    {
+                        "name": "Светильник Econex Road 160 W2 5000K ND",
+                        "article": "2116027",
+                        "power": "140",
+                        "light": "18900",
+                        "efficiency": "135",
+                        "size": "940х195х100"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tУличные светильники серии Road сочетают оригинальный дизайн и высокое качество света, которые помогают оживить улицы и территории современного город\t\t\t\t\t"
+            },
+            {
+                "name": "Серия Highway",
+                "type": "Магистральный светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex Highway 120 W3 4000К",
+                        "article": "1512021",
+                        "power": "113",
+                        "light": "16700",
+                        "efficiency": "148",
+                        "size": "765х300х135"
+                    },
+                    {
+                        "name": "Светильник Econex Highway 120 W3 4000К ND",
+                        "article": "1512024",
+                        "power": "113",
+                        "light": "16700",
+                        "efficiency": "148",
+                        "size": "765х300х135"
+                    },
+                    {
+                        "name": "Светильник Econex Highway 150 HE W3 4000К",
+                        "article": "1515021",
+                        "power": "150",
+                        "light": "23800",
+                        "efficiency": "159",
+                        "size": "765х300х135"
+                    },
+                    {
+                        "name": "Светильник Econex Highway 150 HE W3 4000К ND",
+                        "article": "1515024",
+                        "power": "150",
+                        "light": "23800",
+                        "efficiency": "159",
+                        "size": "765х300х135"
+                    },
+                    {
+                        "name": "Светильник Econex Highway 160 W3 4000К",
+                        "article": "1516021",
+                        "power": "155",
+                        "light": "20200",
+                        "efficiency": "130",
+                        "size": "765х300х135"
+                    },
+                    {
+                        "name": "Светильник Econex Highway 160 W3 4000К ND",
+                        "article": "1516024",
+                        "power": "155",
+                        "light": "20200",
+                        "efficiency": "130",
+                        "size": "765х300х135"
+                    },
+                    {
+                        "name": "Светильник Econex Highway 200 W3 4000К",
+                        "article": "1520021",
+                        "power": "169",
+                        "light": "25000",
+                        "efficiency": "148",
+                        "size": "765х300х135"
+                    },
+                    {
+                        "name": "Светильник Econex Highway 200 W3 4000К ND",
+                        "article": "1520024",
+                        "power": "169",
+                        "light": "25000",
+                        "efficiency": "148",
+                        "size": "765х300х135"
+                    },
+                    {
+                        "name": "Светильник Econex Highway 250 W3 4000К",
+                        "article": "1525021",
+                        "power": "225",
+                        "light": "33300",
+                        "efficiency": "148",
+                        "size": "765х300х135"
+                    },
+                    {
+                        "name": "Светильник Econex Highway 250 W3 4000К ND",
+                        "article": "1525024",
+                        "power": "225",
+                        "light": "33000",
+                        "efficiency": "148",
+                        "size": "765х300х135"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tНовая серия консольных светильников Econex Highway для уличного и дорожного освещения объединила в себе современный дизайн, высокую энергоэффективность (более 135 лм/Вт) и инновационные технологии в конструкции. Уникальный тип КСС позволяет достигать необходимого уровня освещенности и зрительного комфорта\t\t\t\t\t"
+            },
+            {
+                "name": "Серия Spark",
+                "type": "Уличный светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex Spark 30 W1 5000K",
+                        "article": "3903011",
+                        "power": "27",
+                        "light": "3800",
+                        "efficiency": "141",
+                        "size": "380х125х100"
+                    },
+                    {
+                        "name": "Светильник Econex Spark 30 W2 5000K",
+                        "article": "3903021",
+                        "power": "27",
+                        "light": "3800",
+                        "efficiency": "141",
+                        "size": "380х125х100"
+                    },
+                    {
+                        "name": "Светильник Econex Spark 30 W3 5000K",
+                        "article": "3903031",
+                        "power": "27",
+                        "light": "3800",
+                        "efficiency": "141",
+                        "size": "380х125х100"
+                    },
+                    {
+                        "name": "Светильник Econex Spark 40 W1 5000K",
+                        "article": "3904011",
+                        "power": "41",
+                        "light": "4900",
+                        "efficiency": "120",
+                        "size": "380х125х100"
+                    },
+                    {
+                        "name": "Светильник Econex Spark 40 W2 5000K",
+                        "article": "3904021",
+                        "power": "41",
+                        "light": "4900",
+                        "efficiency": "120",
+                        "size": "380х125х100"
+                    },
+                    {
+                        "name": "Светильник Econex Spark 40 W3 5000K",
+                        "article": "3904031",
+                        "power": "41",
+                        "light": "4900",
+                        "efficiency": "120",
+                        "size": "380х125х100"
+                    },
+                    {
+                        "name": "Светильник Econex Spark 60 W1 5000K",
+                        "article": "3906011",
+                        "power": "52",
+                        "light": "7280",
+                        "efficiency": "140",
+                        "size": "500х125х100"
+                    },
+                    {
+                        "name": "Светильник Econex Spark 60 W2 5000K",
+                        "article": "3906021",
+                        "power": "52",
+                        "light": "7280",
+                        "efficiency": "140",
+                        "size": "500х125х100"
+                    },
+                    {
+                        "name": "Светильник Econex Spark 60 W3 5000K",
+                        "article": "3906031",
+                        "power": "52",
+                        "light": "7280",
+                        "efficiency": "140",
+                        "size": "500х125х100"
+                    },
+                    {
+                        "name": "Светильник Econex Spark 80 W1 5000K",
+                        "article": "3908011",
+                        "power": "82",
+                        "light": "9800",
+                        "efficiency": "120",
+                        "size": "380х250х120"
+                    },
+                    {
+                        "name": "Светильник Econex Spark 80 W2 5000K",
+                        "article": "3908021",
+                        "power": "82",
+                        "light": "9800",
+                        "efficiency": "120",
+                        "size": "380х250х120"
+                    },
+                    {
+                        "name": "Светильник Econex Spark 80 W3 5000K",
+                        "article": "3908031",
+                        "power": "82",
+                        "light": "9800",
+                        "efficiency": "120",
+                        "size": "380х250х120"
+                    },
+                    {
+                        "name": "Светильник Econex Spark 120 W1 5000K",
+                        "article": "3912011",
+                        "power": "104",
+                        "light": "14560",
+                        "efficiency": "140",
+                        "size": "500х250х120"
+                    },
+                    {
+                        "name": "Светильник Econex Spark 120 W2 5000K",
+                        "article": "3912021",
+                        "power": "104",
+                        "light": "14560",
+                        "efficiency": "140",
+                        "size": "500х250х120"
+                    },
+                    {
+                        "name": "Светильник Econex Spark 120 W3 5000K",
+                        "article": "3912031",
+                        "power": "104",
+                        "light": "14560",
+                        "efficiency": "140",
+                        "size": "500х250х120"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tEconex Spark - новая серия уличных светильников, которая обладает высокой степенью эффективности 141 лм/Вт, что позволяет достигать максимальных показателей энергоэффективности. Конструкторский отдел уделил особое внимание практичности и универсальности данного осветительного устройства, что делает его идеальным решением в уличном освещении.\t\t\t\t\t"
+            },
+            {
+                "name": "Серия SkyX",
+                "type": "Мачтовый светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex SkyX 120 D90 5000K",
+                        "article": "1412001",
+                        "power": "117",
+                        "light": "17150",
+                        "efficiency": "147",
+                        "size": "265x205x410"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 120 D60 5000K",
+                        "article": "1412005",
+                        "power": "117",
+                        "light": "17150",
+                        "efficiency": "147",
+                        "size": "265x205x410"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 120 D25 5000K",
+                        "article": "1412009",
+                        "power": "117",
+                        "light": "16400",
+                        "efficiency": "140",
+                        "size": "265x205x410"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 120 D90 5000K AN",
+                        "article": "1412011",
+                        "power": "117",
+                        "light": "17150",
+                        "efficiency": "147",
+                        "size": "265x205x410"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 120 A 5000K",
+                        "article": "1412013",
+                        "power": "117",
+                        "light": "17150",
+                        "efficiency": "147",
+                        "size": "265x205x410"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 120 D60 5000K AN",
+                        "article": "1412015",
+                        "power": "117",
+                        "light": "17150",
+                        "efficiency": "147",
+                        "size": "265x205x410"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 120 D25 5000K AN",
+                        "article": "1412019",
+                        "power": "117",
+                        "light": "16400",
+                        "efficiency": "140",
+                        "size": "265x205x410"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 120 D90 5000K RF",
+                        "article": "1412021",
+                        "power": "117",
+                        "light": "17150",
+                        "efficiency": "147",
+                        "size": "265x205x410"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 120 A 5000K AN",
+                        "article": "1412023",
+                        "power": "117",
+                        "light": "17150",
+                        "efficiency": "147",
+                        "size": "265x205x410"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 120 D60 5000K RF",
+                        "article": "1412025",
+                        "power": "117",
+                        "light": "17150",
+                        "efficiency": "147",
+                        "size": "265x205x410"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 120 D25 5000K RF",
+                        "article": "1412029",
+                        "power": "117",
+                        "light": "16400",
+                        "efficiency": "140",
+                        "size": "265x205x410"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 120 A 5000K RF",
+                        "article": "1412033",
+                        "power": "117",
+                        "light": "17150",
+                        "efficiency": "147",
+                        "size": "265x205x410"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 240 D90 5000K",
+                        "article": "1424001",
+                        "power": "234",
+                        "light": "34300",
+                        "efficiency": "147",
+                        "size": "470х205х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 240 D60 5000K",
+                        "article": "1424005",
+                        "power": "234",
+                        "light": "34300",
+                        "efficiency": "147",
+                        "size": "470х205х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 240 D25 5000K",
+                        "article": "1424009",
+                        "power": "234",
+                        "light": "32800",
+                        "efficiency": "140",
+                        "size": "470х205х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 240 D90 5000K AN ",
+                        "article": "1424011",
+                        "power": "234",
+                        "light": "34300",
+                        "efficiency": "147",
+                        "size": "470х205х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 240 A 5000K",
+                        "article": "1424013",
+                        "power": "234",
+                        "light": "34300",
+                        "efficiency": "147",
+                        "size": "470х205х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 240 D60 5000K AN",
+                        "article": "1424015",
+                        "power": "234",
+                        "light": "34300",
+                        "efficiency": "147",
+                        "size": "470х205х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 240 D25 5000K AN",
+                        "article": "1424019",
+                        "power": "234",
+                        "light": "32800",
+                        "efficiency": "140",
+                        "size": "470х205х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 240 D90 5000K RF ",
+                        "article": "1424021",
+                        "power": "234",
+                        "light": "34300",
+                        "efficiency": "147",
+                        "size": "470х205х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 240 A 5000K AN",
+                        "article": "1424023",
+                        "power": "234",
+                        "light": "34300",
+                        "efficiency": "147",
+                        "size": "470х205х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 240 D60 5000K RF",
+                        "article": "1424025",
+                        "power": "234",
+                        "light": "34300",
+                        "efficiency": "147",
+                        "size": "470х205х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 240 D25 5000K RF",
+                        "article": "1424029",
+                        "power": "234",
+                        "light": "32800",
+                        "efficiency": "140",
+                        "size": "470х205х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 240 A 5000K RF",
+                        "article": "1424033",
+                        "power": "234",
+                        "light": "34300",
+                        "efficiency": "147",
+                        "size": "470х205х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 360 D90 5000K",
+                        "article": "1436001",
+                        "power": "351",
+                        "light": "51450",
+                        "efficiency": "147",
+                        "size": "470х300х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 360 D60 5000K",
+                        "article": "1436005",
+                        "power": "351",
+                        "light": "51450",
+                        "efficiency": "147",
+                        "size": "470х300х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 360 D25 5000K",
+                        "article": "1436009",
+                        "power": "351",
+                        "light": "49200",
+                        "efficiency": "140",
+                        "size": "470х300х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 360 D90 5000K AN",
+                        "article": "1436011",
+                        "power": "351",
+                        "light": "51450",
+                        "efficiency": "147",
+                        "size": "470х300х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 360 A 5000K",
+                        "article": "1436013",
+                        "power": "351",
+                        "light": "51450",
+                        "efficiency": "147",
+                        "size": "470х300х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 360 D60 5000K AN",
+                        "article": "1436015",
+                        "power": "351",
+                        "light": "51450",
+                        "efficiency": "147",
+                        "size": "470х300х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 360 D25 5000K AN",
+                        "article": "1436019",
+                        "power": "351",
+                        "light": "49200",
+                        "efficiency": "140",
+                        "size": "470х300х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 360 D90 5000K RF",
+                        "article": "1436021",
+                        "power": "351",
+                        "light": "51450",
+                        "efficiency": "147",
+                        "size": "470х300х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 360 A 5000K AN",
+                        "article": "1436023",
+                        "power": "351",
+                        "light": "51450",
+                        "efficiency": "147",
+                        "size": "470х300х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 360 D60 5000K RF",
+                        "article": "1436025",
+                        "power": "351",
+                        "light": "51450",
+                        "efficiency": "147",
+                        "size": "470х300х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 360 D25 5000K RF",
+                        "article": "1436029",
+                        "power": "351",
+                        "light": "49200",
+                        "efficiency": "140",
+                        "size": "470х300х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 360 A 5000K RF",
+                        "article": "1436033",
+                        "power": "351",
+                        "light": "51450",
+                        "efficiency": "147",
+                        "size": "470х300х445"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 480 D90 5000K",
+                        "article": "1448001",
+                        "power": "468",
+                        "light": "68600",
+                        "efficiency": "147",
+                        "size": "470х325х470"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 480 D60 5000K",
+                        "article": "1448005",
+                        "power": "468",
+                        "light": "68600",
+                        "efficiency": "147",
+                        "size": "470х325х470"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 480 D25 5000K",
+                        "article": "1448009",
+                        "power": "468",
+                        "light": "65600",
+                        "efficiency": "140",
+                        "size": "470х325х470"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 480 D90 5000K AN",
+                        "article": "1448011",
+                        "power": "468",
+                        "light": "68600",
+                        "efficiency": "147",
+                        "size": "470х325х470"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 480 A 5000K",
+                        "article": "1448013",
+                        "power": "468",
+                        "light": "68800",
+                        "efficiency": "147",
+                        "size": "470х325х470"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 480 D60 5000K AN",
+                        "article": "1448015",
+                        "power": "468",
+                        "light": "68600",
+                        "efficiency": "147",
+                        "size": "470х325х470"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 480 D25 5000K AN",
+                        "article": "1448019",
+                        "power": "468",
+                        "light": "65600",
+                        "efficiency": "140",
+                        "size": "470х325х470"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 480 D90 5000K RF",
+                        "article": "1448021",
+                        "power": "468",
+                        "light": "68600",
+                        "efficiency": "147",
+                        "size": "470х325х470"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 480 A 5000K AN",
+                        "article": "1448023",
+                        "power": "468",
+                        "light": "68600",
+                        "efficiency": "147",
+                        "size": "470х325х470"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 480 D60 5000K RF",
+                        "article": "1448025",
+                        "power": "468",
+                        "light": "68600",
+                        "efficiency": "147",
+                        "size": "470х325х470"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 480 D25 5000K RF",
+                        "article": "1448029",
+                        "power": "468",
+                        "light": "65600",
+                        "efficiency": "140",
+                        "size": "470х325х470"
+                    },
+                    {
+                        "name": "Светильник Econex SkyX 480 A 5000K RF",
+                        "article": "1448033",
+                        "power": "468",
+                        "light": "68600",
+                        "efficiency": "147",
+                        "size": "470х325х470"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tEconex SkyX - новая серия уличных светильников, предназначенная для установки на высокомачтовые опоры. Осветительное устройство имеет высокую эффективность 147 лм/Вт, что позволяет достигать максимальных показателей экономии\t\t\t\t\t"
+            },
+            {
+                "name": "Серия Board",
+                "type": "Уличный светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex Board 12 D120 IP65",
+                        "article": "2201211",
+                        "power": "16",
+                        "light": "1700",
+                        "efficiency": "106",
+                        "size": "255х100х140"
+                    },
+                    {
+                        "name": "Светильник Econex Board 24 D120 IP67",
+                        "article": "2202431",
+                        "power": "28",
+                        "light": "3800",
+                        "efficiency": "136",
+                        "size": "240х195х125"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tЭффективное освещение высоких рекламных щитов делает их заметнее, а рекламу - ярче и привлекательнее. Установка светодиодных прожекторов Econex Board позволит решить Вашу задачу\t\t\t\t\t"
+            },
+            {
+                "name": "Серия Basic Foton",
+                "type": "Уличный светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex Basic Foton 30 W3 4000K",
+                        "article": "4203001",
+                        "power": "34",
+                        "light": "3000",
+                        "efficiency": "100",
+                        "size": "236х110х58"
+                    },
+                    {
+                        "name": "Светильник Econex Basic Foton 50 W3 4000K",
+                        "article": "4205001",
+                        "power": "53",
+                        "light": "5000",
+                        "efficiency": "100",
+                        "size": "333х127х58"
+                    },
+                    {
+                        "name": "Светильник Econex Basic Foton 100 W3 4000K",
+                        "article": "4210001",
+                        "power": "103",
+                        "light": "10000",
+                        "efficiency": "100",
+                        "size": "433х168х58"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tНовая серия светодиодных светильников Econex Basic Foton является бюджетной линейкой Econex для наружного освещения. Сочетает в себе современный дизайн и оптимальные потребительские свойства. Специально разработанная групповая линза формирует необходимые КСС , что позволяет применять данный светильник в различных светотехнических решениях. \t\t\t\t\t"
+            },
+            {
+                "name": "Серия Basic Flood",
+                "type": "Уличный светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex Basic Flood 20 D120",
+                        "article": "4302001",
+                        "power": "21",
+                        "light": "1800",
+                        "efficiency": "90",
+                        "size": "105х168х36"
+                    },
+                    {
+                        "name": "Светильник Econex Basic Flood 30 D120",
+                        "article": "4303001",
+                        "power": "32",
+                        "light": "2700",
+                        "efficiency": "90",
+                        "size": "130х198х44"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tНовая серия Econex Basic Flood специально создана для освещении различных объектов и территорий. Основными преимуществами данного типа светильников является удобство и практичность в эксплуатации.\t\t\t\t\t"
+            },
+            {
+                "name": "Серия Basic Board",
+                "type": "Уличный светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex Basic Board 20 D60",
+                        "article": "4402001",
+                        "power": "20",
+                        "light": "1760",
+                        "efficiency": "88",
+                        "size": "141х91х39"
+                    },
+                    {
+                        "name": "Светильник Econex Basic Board 30 D60",
+                        "article": "4403001",
+                        "power": "30",
+                        "light": "2850",
+                        "efficiency": "95",
+                        "size": "188х105х39"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tНовое поколение бюджетной линейки Econex Basic Board идеально подходит для освещения рекламных щитов, зданий, фасадов и др. различных инфраструктурных объектов. Эффективное решение, которое отвечает всем необходимым требованиям \t\t\t\t\t"
+            }
+        ]
+    },
+    {
+        "name": "Промышленное освещение",
+        "series": [
+            {
+                "name": "Серия PowerX",
+                "type": "Промышленный светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex PowerX 120 D90 5000K",
+                        "article": "1912001",
+                        "power": "117",
+                        "light": "17150",
+                        "efficiency": "147",
+                        "size": "220х200х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 120 D60 5000K",
+                        "article": "1912003",
+                        "power": "117",
+                        "light": "17150",
+                        "efficiency": "147",
+                        "size": "220х200х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 120 D90 5000K AN",
+                        "article": "1912011",
+                        "power": "117",
+                        "light": "17150",
+                        "efficiency": "147",
+                        "size": "220х200х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 120 D60 5000K AN",
+                        "article": "1912013",
+                        "power": "117",
+                        "light": "17150",
+                        "efficiency": "147",
+                        "size": "220х200х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 120 D90 5000K RF",
+                        "article": "1912021",
+                        "power": "117",
+                        "light": "17150",
+                        "efficiency": "147",
+                        "size": "220х200х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 120 D60 5000K RF",
+                        "article": "1912023",
+                        "power": "117",
+                        "light": "17150",
+                        "efficiency": "147",
+                        "size": "220х200х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 240 D90 5000K",
+                        "article": "1924001",
+                        "power": "234",
+                        "light": "34300",
+                        "efficiency": "147",
+                        "size": "425х200х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 240 D60 5000K",
+                        "article": "1924003",
+                        "power": "234",
+                        "light": "34300",
+                        "efficiency": "147",
+                        "size": "425х200х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 240 D90 5000K AN",
+                        "article": "1924011",
+                        "power": "234",
+                        "light": "34300",
+                        "efficiency": "147",
+                        "size": "425х200х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 240 D60 5000K AN",
+                        "article": "1924013",
+                        "power": "234",
+                        "light": "34300",
+                        "efficiency": "147",
+                        "size": "425х200х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 240 D90 5000K RF",
+                        "article": "1924021",
+                        "power": "234",
+                        "light": "34300",
+                        "efficiency": "147",
+                        "size": "425х200х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 240 D60 5000K RF",
+                        "article": "1924023",
+                        "power": "234",
+                        "light": "34300",
+                        "efficiency": "147",
+                        "size": "425х200х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 360 D90 5000K",
+                        "article": "1936001",
+                        "power": "351",
+                        "light": "51450",
+                        "efficiency": "147",
+                        "size": "425х300х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 360 D60 5000K",
+                        "article": "1936003",
+                        "power": "351",
+                        "light": "51450",
+                        "efficiency": "147",
+                        "size": "425х300х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 360 D90 5000K AN",
+                        "article": "1936011",
+                        "power": "351",
+                        "light": "51450",
+                        "efficiency": "147",
+                        "size": "425х300х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 360 D60 5000K AN",
+                        "article": "1936013",
+                        "power": "351",
+                        "light": "51450",
+                        "efficiency": "147",
+                        "size": "425х300х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 360 D90 5000K RF",
+                        "article": "1936021",
+                        "power": "351",
+                        "light": "51450",
+                        "efficiency": "147",
+                        "size": "425х300х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 360 D60 5000K RF",
+                        "article": "1936023",
+                        "power": "351",
+                        "light": "51450",
+                        "efficiency": "147",
+                        "size": "425х300х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 480 D90 5000K",
+                        "article": "1948001",
+                        "power": "468",
+                        "light": "68600",
+                        "efficiency": "147",
+                        "size": "425х325х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 480 D60 5000K",
+                        "article": "1948003",
+                        "power": "468",
+                        "light": "68600",
+                        "efficiency": "147",
+                        "size": "425х325х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 480 D90 5000K AN",
+                        "article": "1948011",
+                        "power": "468",
+                        "light": "68600",
+                        "efficiency": "147",
+                        "size": "425х325х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 480 D60 5000K AN",
+                        "article": "1948013",
+                        "power": "468",
+                        "light": "68600",
+                        "efficiency": "147",
+                        "size": "425х325х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 480 D90 5000K RF",
+                        "article": "1948021",
+                        "power": "468",
+                        "light": "68600",
+                        "efficiency": "147",
+                        "size": "425х325х380"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX 480 D60 5000K RF",
+                        "article": "1948023",
+                        "power": "468",
+                        "light": "68600",
+                        "efficiency": "147",
+                        "size": "425х325х380"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tВысокоэффективная серия светильников для освещения производственных помещений с высотой подвеса от 8 до 60 метров и тяжелыми условиями эксплуатации (запыленность, влажность, взвешенные агрессивные частицы, повышенная температура и вибрация), а также складов стеллажного хранения, логистических комплексов\r\nМодель обладает высокой эффективностью 147 лм/вт, которая позволит создавать осветительные установки с максимальными показателями энергоэффективности. Разработчики уделили особое внимание надежности и создали продукт, который будет работать долгие годы без существенного снижения светового потока даже в самых тяжелых условиях эксплуатации\t\t\t\t\t"
+            },
+            {
+                "name": "Серия Basic PowerX",
+                "type": "Промышленный светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex Basic PowerX 120 D90 5000K",
+                        "article": "3512001",
+                        "power": "117",
+                        "light": "17150",
+                        "efficiency": "147",
+                        "size": "180х155х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 120 D60 5000K",
+                        "article": "3512003",
+                        "power": "117",
+                        "light": "17150",
+                        "efficiency": "147",
+                        "size": "180х155х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 120 D90 5000K AN",
+                        "article": "3512011",
+                        "power": "117",
+                        "light": "17150",
+                        "efficiency": "147",
+                        "size": "180х155х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 120 D60 5000K AN",
+                        "article": "3512013",
+                        "power": "117",
+                        "light": "17150",
+                        "efficiency": "147",
+                        "size": "180х155х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 120 D90 5000K RF",
+                        "article": "3512021",
+                        "power": "117",
+                        "light": "17150",
+                        "efficiency": "147",
+                        "size": "180х155х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 120 D60 5000K RF",
+                        "article": "3512023",
+                        "power": "117",
+                        "light": "17150",
+                        "efficiency": "147",
+                        "size": "180х155х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 240 D90 5000K",
+                        "article": "3524001",
+                        "power": "234",
+                        "light": "34300",
+                        "efficiency": "147",
+                        "size": "385х155х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 240 D60 5000K",
+                        "article": "3524003",
+                        "power": "234",
+                        "light": "34300",
+                        "efficiency": "147",
+                        "size": "385х155х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 240 D90 5000K AN",
+                        "article": "3524011",
+                        "power": "234",
+                        "light": "34300",
+                        "efficiency": "147",
+                        "size": "385х155х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 240 D60 5000K AN",
+                        "article": "3524013",
+                        "power": "234",
+                        "light": "34300",
+                        "efficiency": "147",
+                        "size": "385х155х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 240 D90 5000K RF",
+                        "article": "3524021",
+                        "power": "234",
+                        "light": "34300",
+                        "efficiency": "147",
+                        "size": "385х155х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 240 D60 5000K RF",
+                        "article": "3524023",
+                        "power": "234",
+                        "light": "34300",
+                        "efficiency": "147",
+                        "size": "385х155х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 360 D90 5000K",
+                        "article": "3536001",
+                        "power": "351",
+                        "light": "51450",
+                        "efficiency": "147",
+                        "size": "385х290х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 360 D60 5000K",
+                        "article": "3536003",
+                        "power": "351",
+                        "light": "51450",
+                        "efficiency": "147",
+                        "size": "385х290х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 360 D90 5000K AN",
+                        "article": "3536011",
+                        "power": "351",
+                        "light": "51450",
+                        "efficiency": "147",
+                        "size": "385х290х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 360 D60 5000K AN",
+                        "article": "3536013",
+                        "power": "351",
+                        "light": "51450",
+                        "efficiency": "147",
+                        "size": "385х290х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 360 D90 5000K RF",
+                        "article": "3536021",
+                        "power": "351",
+                        "light": "51450",
+                        "efficiency": "147",
+                        "size": "385х290х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 360 D60 5000K RF",
+                        "article": "3536023",
+                        "power": "351",
+                        "light": "51450",
+                        "efficiency": "147",
+                        "size": "385х290х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 480 D90 5000K",
+                        "article": "3548001",
+                        "power": "468",
+                        "light": "68600",
+                        "efficiency": "147",
+                        "size": "385х315х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 480 D60 5000K",
+                        "article": "3548003",
+                        "power": "468",
+                        "light": "68600",
+                        "efficiency": "147",
+                        "size": "385х315х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 480 D90 5000K AN",
+                        "article": "3548011",
+                        "power": "468",
+                        "light": "68600",
+                        "efficiency": "147",
+                        "size": "385х315х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 480 D60 5000K AN",
+                        "article": "3548013",
+                        "power": "468",
+                        "light": "68600",
+                        "efficiency": "147",
+                        "size": "385х315х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 480 D90 5000K RF",
+                        "article": "3548021",
+                        "power": "468",
+                        "light": "68600",
+                        "efficiency": "147",
+                        "size": "385х315х375"
+                    },
+                    {
+                        "name": "Светильник Econex Basic PowerX 480 D60 5000K RF",
+                        "article": "3548023",
+                        "power": "468",
+                        "light": "68600",
+                        "efficiency": "147",
+                        "size": "385х315х375"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tБазовая версия светильников серии Econex PowerX для освещения производственных помещений с высотой подвеса от 8 до 60 метров, которая разработана специально для тяжелых условий эксплуатации.\nНовая модель обладает высокой эффективностью 147 лм/Вт, которая позволяет создавать осветительные установки с максимальными показателями энергоэффективности. \t\t\t\t\t"
+            },
+            {
+                "name": "Серия Energy",
+                "type": "Промышленный светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex Energy 40 D120",
+                        "article": "2404011",
+                        "power": "36",
+                        "light": "4900",
+                        "efficiency": "136",
+                        "size": "360х195х135"
+                    },
+                    {
+                        "name": "Светильник Econex Energy 40 D60",
+                        "article": "2404013",
+                        "power": "36",
+                        "light": "4900",
+                        "efficiency": "136",
+                        "size": "360х195х135"
+                    },
+                    {
+                        "name": "Светильник Econex Energy 60 D120",
+                        "article": "2406011",
+                        "power": "54",
+                        "light": "7400",
+                        "efficiency": "137",
+                        "size": "360х195х135"
+                    },
+                    {
+                        "name": "Светильник Econex Energy 60 D60",
+                        "article": "2406013",
+                        "power": "54",
+                        "light": "7400",
+                        "efficiency": "137",
+                        "size": "358х195х100"
+                    },
+                    {
+                        "name": "Светильник Econex Energy 80 D120",
+                        "article": "2408011",
+                        "power": "70",
+                        "light": "9600",
+                        "efficiency": "137",
+                        "size": "570х195х135"
+                    },
+                    {
+                        "name": "Светильник Econex Energy 80 D60",
+                        "article": "2408013",
+                        "power": "70",
+                        "light": "9600",
+                        "efficiency": "137",
+                        "size": "570х195х135"
+                    },
+                    {
+                        "name": "Светильник Econex Energy 80 D120 AN",
+                        "article": "2408021",
+                        "power": "70",
+                        "light": "9600",
+                        "efficiency": "137",
+                        "size": "570х195х135"
+                    },
+                    {
+                        "name": "Светильник Econex Energy 80 D60 AN",
+                        "article": "2408023",
+                        "power": "70",
+                        "light": "9600",
+                        "efficiency": "137",
+                        "size": "570х195х135"
+                    },
+                    {
+                        "name": "Светильник Econex Energy 80 D120 RF",
+                        "article": "2408031",
+                        "power": "70",
+                        "light": "9600",
+                        "efficiency": "137",
+                        "size": "590x195x135"
+                    },
+                    {
+                        "name": "Светильник Econex Energy 80 D60 RF",
+                        "article": "2408033",
+                        "power": "70",
+                        "light": "9600",
+                        "efficiency": "137",
+                        "size": "590x195x135"
+                    },
+                    {
+                        "name": "Светильник Econex Energy 120 D120",
+                        "article": "2412011",
+                        "power": "105",
+                        "light": "14300",
+                        "efficiency": "136",
+                        "size": "710х195х135"
+                    },
+                    {
+                        "name": "Светильник Econex Energy 120 D60",
+                        "article": "2412013",
+                        "power": "105",
+                        "light": "14300",
+                        "efficiency": "136",
+                        "size": "710х195х135"
+                    },
+                    {
+                        "name": "Светильник Econex Energy 120 D120 AN",
+                        "article": "2412021",
+                        "power": "105",
+                        "light": "14300",
+                        "efficiency": "136",
+                        "size": "710х195х135"
+                    },
+                    {
+                        "name": "Светильник Econex Energy 120 D60 AN",
+                        "article": "2412023",
+                        "power": "105",
+                        "light": "14300",
+                        "efficiency": "136",
+                        "size": "710х195х135"
+                    },
+                    {
+                        "name": "Светильник Econex Energy 120 D120 RF",
+                        "article": "2412031",
+                        "power": "105",
+                        "light": "14300",
+                        "efficiency": "136",
+                        "size": "730x195x135"
+                    },
+                    {
+                        "name": "Светильник Econex Energy 120 D60 RF",
+                        "article": "2412033",
+                        "power": "105",
+                        "light": "14300",
+                        "efficiency": "136",
+                        "size": "730x195x135"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tСветильники серии Econex Energy - это модельный ряд промышленных светильников. Алюминиевый профиль, применяемый в данной серии, обладает низким сопротивлением, высокой способностью рассеивать тепло, что обеспечивает комфортный температурный режим работы светодиодов и длительный срок службы\t\t\t\t\t"
+            },
+            {
+                "name": "Серия Kvant",
+                "type": "Промышленный светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex Kvant 30 D120 5000K",
+                        "article": "3803001",
+                        "power": "27",
+                        "light": "3800",
+                        "efficiency": "141",
+                        "size": "260х125х205"
+                    },
+                    {
+                        "name": "Светильник Econex Kvant 30 D60 5000K",
+                        "article": "3803011",
+                        "power": "27",
+                        "light": "3800",
+                        "efficiency": "141",
+                        "size": "260х125х205"
+                    },
+                    {
+                        "name": "Светильник Econex Kvant 60 D120 5000K",
+                        "article": "3806001",
+                        "power": "53",
+                        "light": "7400",
+                        "efficiency": "140",
+                        "size": "380х125х205"
+                    },
+                    {
+                        "name": "Светильник Econex Kvant 60 D60 5000K",
+                        "article": "3806011",
+                        "power": "53",
+                        "light": "7400",
+                        "efficiency": "140",
+                        "size": "380х125х205"
+                    },
+                    {
+                        "name": "Светильник Econex Kvant 120 D120 5000K",
+                        "article": "3812001",
+                        "power": "106",
+                        "light": "14800",
+                        "efficiency": "140",
+                        "size": "380х255х215"
+                    },
+                    {
+                        "name": "Светильник Econex Kvant 120 D120 5000K AN",
+                        "article": "3812002",
+                        "power": "106",
+                        "light": "14800",
+                        "efficiency": "140",
+                        "size": "380х255х215"
+                    },
+                    {
+                        "name": "Светильник Econex Kvant 120 D120 5000K RF",
+                        "article": "3812003",
+                        "power": "106",
+                        "light": "14800",
+                        "efficiency": "140",
+                        "size": "380х255х215"
+                    },
+                    {
+                        "name": "Светильник Econex Kvant 120 D60 5000K",
+                        "article": "3812011",
+                        "power": "106",
+                        "light": "14800",
+                        "efficiency": "140",
+                        "size": "380х255х215"
+                    },
+                    {
+                        "name": "Светильник Econex Kvant 120 D60 5000K AN",
+                        "article": "3812012",
+                        "power": "106",
+                        "light": "14800",
+                        "efficiency": "140",
+                        "size": "380х255х215"
+                    },
+                    {
+                        "name": "Светильник Econex Kvant 120 D60 5000K RF",
+                        "article": "3812013",
+                        "power": "106",
+                        "light": "14800",
+                        "efficiency": "140",
+                        "size": "380х255х215"
+                    },
+                    {
+                        "name": "Светильник Econex Kvant 180 D120 5000K",
+                        "article": "3818001",
+                        "power": "159",
+                        "light": "22200",
+                        "efficiency": "140",
+                        "size": "380х385х215"
+                    },
+                    {
+                        "name": "Светильник Econex Kvant 180 D120 5000K AN",
+                        "article": "3818002",
+                        "power": "159",
+                        "light": "22200",
+                        "efficiency": "140",
+                        "size": "380х385х215"
+                    },
+                    {
+                        "name": "Светильник Econex Kvant 180 D120 5000K RF",
+                        "article": "3818003",
+                        "power": "159",
+                        "light": "22200",
+                        "efficiency": "140",
+                        "size": "380х385х215"
+                    },
+                    {
+                        "name": "Светильник Econex Kvant 180 D60 5000K",
+                        "article": "3818011",
+                        "power": "159",
+                        "light": "22200",
+                        "efficiency": "140",
+                        "size": "380х385х215"
+                    },
+                    {
+                        "name": "Светильник Econex Kvant 180 D60 5000K AN",
+                        "article": "3818012",
+                        "power": "159",
+                        "light": "22200",
+                        "efficiency": "140",
+                        "size": "380х385х215"
+                    },
+                    {
+                        "name": "Светильник Econex Kvant 180 D60 5000K RF",
+                        "article": "3818013",
+                        "power": "159",
+                        "light": "22200",
+                        "efficiency": "140",
+                        "size": "380х385х215"
+                    },
+                    {
+                        "name": "Светильник Econex Kvant 240 D120 5000K",
+                        "article": "3824001",
+                        "power": "212",
+                        "light": "29600",
+                        "efficiency": "140",
+                        "size": "380х520х215"
+                    },
+                    {
+                        "name": "Светильник Econex Kvant 240 D120 5000K AN",
+                        "article": "3824002",
+                        "power": "212",
+                        "light": "29600",
+                        "efficiency": "140",
+                        "size": "380х520х215"
+                    },
+                    {
+                        "name": "Светильник Econex Kvant 240 D120 5000K RF",
+                        "article": "3824003",
+                        "power": "212",
+                        "light": "29600",
+                        "efficiency": "140",
+                        "size": "380х520х215"
+                    },
+                    {
+                        "name": "Светильник Econex Kvant 240 D60 5000K",
+                        "article": "3824011",
+                        "power": "212",
+                        "light": "29600",
+                        "efficiency": "140",
+                        "size": "380х520х215"
+                    },
+                    {
+                        "name": "Светильник Econex Kvant 240 D60 5000K AN",
+                        "article": "3824012",
+                        "power": "212",
+                        "light": "29600",
+                        "efficiency": "140",
+                        "size": "380х520х215"
+                    },
+                    {
+                        "name": "Светильник Econex Kvant 240 D60 5000K RF",
+                        "article": "3824013",
+                        "power": "212",
+                        "light": "29600",
+                        "efficiency": "140",
+                        "size": "380х520х215"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tEconex Kvant - новая серия промышленных светильников. Сочетает в себе лаконичный дизайн, высокую эффективностью, обширный мощностной ряд и  низкую стоимость люмена, все это позволяет обеспечивать различные конфигурации осветительных установок.\t\t\t\t\t"
+            },
+            {
+                "name": "Серия Universal",
+                "type": "Промышленный светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex Universal 25 D120 IP65 5000K",
+                        "article": "3102509",
+                        "power": "21",
+                        "light": "2800",
+                        "efficiency": "133",
+                        "size": "510х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 25 D120 IP65 5000K EM",
+                        "article": "3102510",
+                        "power": "21",
+                        "light": "2800",
+                        "efficiency": "133",
+                        "size": "510х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 25 D120 IP65 4000K",
+                        "article": "3102513",
+                        "power": "21",
+                        "light": "2800",
+                        "efficiency": "133",
+                        "size": "510х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 25 D120 IP65 4000K EM",
+                        "article": "3102514",
+                        "power": "21",
+                        "light": "2800",
+                        "efficiency": "133",
+                        "size": "510х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 25 D60 IP65 5000K",
+                        "article": "3102525",
+                        "power": "21",
+                        "light": "2800",
+                        "efficiency": "133",
+                        "size": "510х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 25 D60 IP65 5000K EM",
+                        "article": "3102526",
+                        "power": "21",
+                        "light": "2800",
+                        "efficiency": "133",
+                        "size": "510х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 25 D60 IP65 4000K",
+                        "article": "3102529",
+                        "power": "21",
+                        "light": "2800",
+                        "efficiency": "133",
+                        "size": "510х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 25 D60 IP65 4000K EM",
+                        "article": "3102530",
+                        "power": "21",
+                        "light": "2800",
+                        "efficiency": "133",
+                        "size": "510х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 50 D120 IP20 5000K",
+                        "article": "3105001",
+                        "power": "42",
+                        "light": "5600",
+                        "efficiency": "133",
+                        "size": "1010х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 50 D120 IP20 5000K AN",
+                        "article": "3105002",
+                        "power": "42",
+                        "light": "5600",
+                        "efficiency": "133",
+                        "size": "1010х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 50 D120 IP20 5000K EM",
+                        "article": "3105003",
+                        "power": "42",
+                        "light": "5600",
+                        "efficiency": "133",
+                        "size": "1010х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 50 D120 IP20 4000K",
+                        "article": "3105005",
+                        "power": "42",
+                        "light": "5600",
+                        "efficiency": "133",
+                        "size": "1010х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 50 D120 IP20 4000K AN",
+                        "article": "3105006",
+                        "power": "42",
+                        "light": "5600",
+                        "efficiency": "133",
+                        "size": "1010х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 50 D120 IP20 4000K EM",
+                        "article": "3105007",
+                        "power": "42",
+                        "light": "5600",
+                        "efficiency": "133",
+                        "size": "1010х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 50 D120 IP65 5000K",
+                        "article": "3105009",
+                        "power": "42",
+                        "light": "5600",
+                        "efficiency": "133",
+                        "size": "1010х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 50 D120 IP65 5000K EM",
+                        "article": "3105010",
+                        "power": "42",
+                        "light": "5600",
+                        "efficiency": "133",
+                        "size": "1010х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 50 D120 IP65 4000K",
+                        "article": "3105013",
+                        "power": "42",
+                        "light": "5600",
+                        "efficiency": "133",
+                        "size": "1010х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 50 D120 IP65 4000K EM",
+                        "article": "3105014",
+                        "power": "42",
+                        "light": "5600",
+                        "efficiency": "133",
+                        "size": "1010х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 50 D60 IP20 5000K",
+                        "article": "3105017",
+                        "power": "42",
+                        "light": "5600",
+                        "efficiency": "133",
+                        "size": "1010х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 50 D60 IP20 5000K AN",
+                        "article": "3105018",
+                        "power": "42",
+                        "light": "5600",
+                        "efficiency": "133",
+                        "size": "1010х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 50 D60 IP20 5000K EM",
+                        "article": "3105019",
+                        "power": "42",
+                        "light": "5600",
+                        "efficiency": "133",
+                        "size": "1010х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 50 D60 IP20 4000K",
+                        "article": "3105021",
+                        "power": "42",
+                        "light": "5600",
+                        "efficiency": "133",
+                        "size": "1010х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 50 D60 IP20 4000K AN",
+                        "article": "3105022",
+                        "power": "42",
+                        "light": "5600",
+                        "efficiency": "133",
+                        "size": "1010х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 50 D60 IP20 4000K EM",
+                        "article": "3105023",
+                        "power": "42",
+                        "light": "5600",
+                        "efficiency": "133",
+                        "size": "1010х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 50 D60 IP65 5000K",
+                        "article": "3105025",
+                        "power": "42",
+                        "light": "5600",
+                        "efficiency": "133",
+                        "size": "1010х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 50 D60 IP65 5000K EM",
+                        "article": "3105026",
+                        "power": "42",
+                        "light": "5600",
+                        "efficiency": "133",
+                        "size": "1010х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 50 D60 IP65 4000K",
+                        "article": "3105029",
+                        "power": "42",
+                        "light": "5600",
+                        "efficiency": "133",
+                        "size": "1010х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 50 D60 IP65 4000K EM",
+                        "article": "3105030",
+                        "power": "42",
+                        "light": "5600",
+                        "efficiency": "133",
+                        "size": "1010х65х80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D120 IP20 5000K",
+                        "article": "3107501",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D120 IP20 5000K AN",
+                        "article": "3107502",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D120 IP20 5000K EM",
+                        "article": "3107503",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D120 IP20 4000K",
+                        "article": "3107505",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D120 IP20 4000K AN",
+                        "article": "3107506",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D120 IP20 4000K EM",
+                        "article": "3107507",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D120 IP65 5000K",
+                        "article": "3107509",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D120 IP65 5000K EM",
+                        "article": "3107510",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D120 IP65 5000K AN",
+                        "article": "3107511",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x102"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D120 IP65 5000K RF",
+                        "article": "3107512",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x102"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D120 IP65 4000K",
+                        "article": "3107513",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D120 IP65 4000K EM",
+                        "article": "3107514",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D120 IP65 4000K AN",
+                        "article": "3107515",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x102"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D120 IP65 4000K RF",
+                        "article": "3107516",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x102"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D60 IP20 5000K",
+                        "article": "3107517",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D60 IP20 5000K AN",
+                        "article": "3107518",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D60 IP20 5000K EM",
+                        "article": "3107519",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D60 IP20 4000K",
+                        "article": "3107521",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D60 IP20 4000K AN",
+                        "article": "3107522",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D60 IP20 4000K EM",
+                        "article": "3107523",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D60 IP65 5000K",
+                        "article": "3107525",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D60 IP65 5000K EM",
+                        "article": "3107526",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D60 IP65 5000K AN",
+                        "article": "3107527",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x102"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D60 IP65 5000K RF",
+                        "article": "3107528",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x102"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D60 IP65 4000K",
+                        "article": "3107529",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D60 IP65 4000K EM",
+                        "article": "3107530",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D60 IP65 4000K AN",
+                        "article": "3107531",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x102"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 75 D60 IP65 4000K RF",
+                        "article": "3107532",
+                        "power": "63",
+                        "light": "8400",
+                        "efficiency": "133",
+                        "size": "1510x65x102"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D120 IP20 5000K",
+                        "article": "3115001",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D120 IP20 5000K AN",
+                        "article": "3115002",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D120 IP20 5000K EM",
+                        "article": "3115003",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D120 IP20 4000K",
+                        "article": "3115005",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D120 IP20 4000K AN",
+                        "article": "3115006",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D120 IP20 4000K EM",
+                        "article": "3115007",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D120 IP65 5000K",
+                        "article": "3115009",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D120 IP65 5000K AN",
+                        "article": "3115011",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x102"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D120 IP65 5000K RF",
+                        "article": "3115012",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x102"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D120 IP65 4000K",
+                        "article": "3115013",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D120 IP65 4000K AN",
+                        "article": "3115015",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x102"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D120 IP65 4000K RF",
+                        "article": "3115016",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x102"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D60 IP20 5000K",
+                        "article": "3115017",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D60 IP20 5000K AN",
+                        "article": "3115018",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D60 IP20 5000K EM",
+                        "article": "3115019",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D60 IP20 4000K",
+                        "article": "3115021",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D60 IP20 4000K AN",
+                        "article": "3115022",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D60 IP20 4000K EM",
+                        "article": "3115023",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D60 IP65 5000K",
+                        "article": "3115025",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D60 IP65 5000K AN",
+                        "article": "3115027",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x102"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D60 IP65 5000K RF",
+                        "article": "3115028",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x102"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D60 IP65 4000K",
+                        "article": "3115029",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x80"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D60 IP65 4000K AN",
+                        "article": "3115031",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x102"
+                    },
+                    {
+                        "name": "Светильник Econex Universal 150 D60 IP65 4000K RF",
+                        "article": "3115032",
+                        "power": "125",
+                        "light": "16800",
+                        "efficiency": "133",
+                        "size": "3010x65x102"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tНовое поколение линейных универсальных светильников для промышленных, складских, торговых и спортивных объектов. Благодаря эффективности 134 лм/Вт, можно использовать в помещениях с высотой потолков до 10 метров. Конструкция позволяет устанавливать светильники в единую непрерывную световую линию, а также со степенью защиты IP65 в помещениях с автоматизированными системами пожаротушения\t\t\t\t\t"
+            },
+            {
+                "name": "Серия Loft",
+                "type": "Промышленный светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex Loft 12 Prism IP54 5000K",
+                        "article": "2701211",
+                        "power": "14",
+                        "light": "1680",
+                        "efficiency": "120",
+                        "size": "515х85х105"
+                    },
+                    {
+                        "name": "Светильник Econex Loft 24 Prism IP54 5000K",
+                        "article": "2702411",
+                        "power": "28",
+                        "light": "3360",
+                        "efficiency": "120",
+                        "size": "1015х85х105"
+                    },
+                    {
+                        "name": "Светильник Econex Loft 24 Prism IP54 5000K Em",
+                        "article": "2702421",
+                        "power": "28",
+                        "light": "3360",
+                        "efficiency": "120",
+                        "size": "1015х85х105"
+                    },
+                    {
+                        "name": "Светильник Econex Loft 36 Prism IP54 5000K",
+                        "article": "2703611",
+                        "power": "42",
+                        "light": "5040",
+                        "efficiency": "120",
+                        "size": "1015х85х105"
+                    },
+                    {
+                        "name": "Светильник Econex Loft 36 Prism IP54 5000K Em",
+                        "article": "2703621",
+                        "power": "42",
+                        "light": "5040",
+                        "efficiency": "120",
+                        "size": "1015х85х105"
+                    },
+                    {
+                        "name": "Светильник Econex Loft 54 Prism IP54 5000K",
+                        "article": "2705411",
+                        "power": "63",
+                        "light": "7560",
+                        "efficiency": "120",
+                        "size": "1515х85х105"
+                    },
+                    {
+                        "name": "Светильник Econex Loft 54 Prism IP54 5000K Em",
+                        "article": "2705421",
+                        "power": "63",
+                        "light": "7560",
+                        "efficiency": "120",
+                        "size": "1515х85х105"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tУниверсальный светодиодный светильник Econex Loft разработан для освещения промышленных помещений, торговых залов, логистрических центров, магазинов, спортивных сооружений и.т.п. Несмотря на небольшой вес и демократичные цены, светильник отличается высокими светотехническими и эксплуатационными показателями, а качественные комплектующие обеспечивают высокую надежность и длительный срок службы\t\t\t\t\t"
+            },
+            {
+                "name": "Серия Prime",
+                "type": "Промышленный светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex Prime 20 D120 5000K",
+                        "article": "3702001",
+                        "power": "22",
+                        "light": "2200",
+                        "efficiency": "100",
+                        "size": "664х90х90"
+                    },
+                    {
+                        "name": "Светильник Econex Prime 20 D120 5000K AN",
+                        "article": "3702021",
+                        "power": "22",
+                        "light": "2200",
+                        "efficiency": "100",
+                        "size": "664х90х90"
+                    },
+                    {
+                        "name": "Светильник Econex Prime 20 D120 5000K DALI",
+                        "article": "3702031",
+                        "power": "22",
+                        "light": "2200",
+                        "efficiency": "100",
+                        "size": "664х90х90"
+                    },
+                    {
+                        "name": "Светильник Econex Prime 30 D120 5000K",
+                        "article": "3703001",
+                        "power": "43",
+                        "light": "4300",
+                        "efficiency": "100",
+                        "size": "1274х90х90"
+                    },
+                    {
+                        "name": "Светильник Econex Prime 30 D120 5000K AN",
+                        "article": "3703021",
+                        "power": "43",
+                        "light": "4300",
+                        "efficiency": "100",
+                        "size": "1274х90х90"
+                    },
+                    {
+                        "name": "Светильник Econex Prime 30 D120 5000K DALI",
+                        "article": "3703031",
+                        "power": "43",
+                        "light": "4300",
+                        "efficiency": "100",
+                        "size": "1274х90х90"
+                    },
+                    {
+                        "name": "Светильник Econex Prime 60 D120 5000K",
+                        "article": "3706001",
+                        "power": "54",
+                        "light": "5400",
+                        "efficiency": "100",
+                        "size": "1574х90х90"
+                    },
+                    {
+                        "name": "Светильник Econex Prime 60 D120 5000K RF",
+                        "article": "3706011",
+                        "power": "54",
+                        "light": "5400",
+                        "efficiency": "100",
+                        "size": "1574х90х90"
+                    },
+                    {
+                        "name": "Светильник Econex Prime 60 D120 5000K AN",
+                        "article": "3706021",
+                        "power": "54",
+                        "light": "5400",
+                        "efficiency": "100",
+                        "size": "1574х90х90"
+                    },
+                    {
+                        "name": "Светильник Econex Prime 60 D120 5000K DALI",
+                        "article": "3706031",
+                        "power": "54",
+                        "light": "5400",
+                        "efficiency": "100",
+                        "size": "1574х90х90"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tEconex Prime - новая серия светодиодных светильников, которая является прямым аналогом люминисцентных ламп. Разработана для освещения промышленных помещений, торговых залов, парковок, складских объектов и пр. В модели предусмотрены возможности диммирования и интеграции в систему управления освещением Econex Smart. Плюс ко всему в данной серии есть модификации светильников с блоком аварийного питания.      \t\t\t\t\t"
+            },
+            {
+                "name": "Серия Basic Starline",
+                "type": "Промышленный светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex Basic Starline 20 D120 5000K",
+                        "article": "3602001",
+                        "power": "19",
+                        "light": "1800",
+                        "efficiency": "95",
+                        "size": "652х75х63"
+                    },
+                    {
+                        "name": "Светильник Econex Basic Starline 30 D120 5000K",
+                        "article": "3603001",
+                        "power": "38",
+                        "light": "3600",
+                        "efficiency": "95",
+                        "size": "1252х75х63"
+                    },
+                    {
+                        "name": "Светильник Econex Basic Starline 60 D120 5000K",
+                        "article": "3606001",
+                        "power": "50",
+                        "light": "5000",
+                        "efficiency": "100",
+                        "size": "1552х75х63"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tEconex Basic Starline - бюджетная серия светодиодный светильников Econex, предназначенная для промышленных помещений с высотой подвеса до 6 м. Имеет матовый рассеиватель, который способствует равномерному светораспределению.\t\t\t\t\t"
+            },
+            {
+                "name": "Серия Hell",
+                "type": "Промышленный светильник для гоячих цехов",
+                "models": [
+                    {
+                        "name": "Светильник Econex Hell 60 D90 100°C 5000K 48VDC",
+                        "article": "1806011",
+                        "power": "60",
+                        "light": "8600",
+                        "efficiency": "143",
+                        "size": "180х155х375"
+                    },
+                    {
+                        "name": "Светильник Econex Hell 60 D60 100°C 5000K 48VDC",
+                        "article": "1806012",
+                        "power": "60",
+                        "light": "8600",
+                        "efficiency": "143",
+                        "size": "180х155х375"
+                    },
+                    {
+                        "name": "Светильник Econex Hell 120 D90 70°C 5000K AN",
+                        "article": "1812001",
+                        "power": "110",
+                        "light": "15300",
+                        "efficiency": "139",
+                        "size": "180х155х375"
+                    },
+                    {
+                        "name": "Светильник Econex Hell 120 D60 70°C 5000K AN",
+                        "article": "1812002",
+                        "power": "110",
+                        "light": "15300",
+                        "efficiency": "139",
+                        "size": "180х155х375"
+                    },
+                    {
+                        "name": "Светильник Econex Hell 120 D90 100°C 5000K 48VDC",
+                        "article": "1812011",
+                        "power": "120",
+                        "light": "17200",
+                        "efficiency": "143",
+                        "size": "385х155х375"
+                    },
+                    {
+                        "name": "Светильник Econex Hell 120 D60 100°C 5000K 48VDC",
+                        "article": "1812012",
+                        "power": "120",
+                        "light": "17200",
+                        "efficiency": "143",
+                        "size": "385х155х375"
+                    },
+                    {
+                        "name": "Светильник Econex Hell 180 D90 100°C 5000K 48VDC",
+                        "article": "1818011",
+                        "power": "180",
+                        "light": "25700",
+                        "efficiency": "143",
+                        "size": "385х290х375"
+                    },
+                    {
+                        "name": "Светильник Econex Hell 180 D60 100°C 5000K 48VDC",
+                        "article": "1818012",
+                        "power": "180",
+                        "light": "25700",
+                        "efficiency": "143",
+                        "size": "385х290х375"
+                    },
+                    {
+                        "name": "Светильник Econex Hell 240 D90 70°C 5000K AN",
+                        "article": "1824001",
+                        "power": "220",
+                        "light": "30600",
+                        "efficiency": "139",
+                        "size": "385х155х375"
+                    },
+                    {
+                        "name": "Светильник Econex Hell 240 D60 70°C 5000K AN",
+                        "article": "1824002",
+                        "power": "220",
+                        "light": "30600",
+                        "efficiency": "139",
+                        "size": "385х155х375"
+                    },
+                    {
+                        "name": "Светильник Econex Hell 240 D90 100°C 5000K 48VDC",
+                        "article": "1824011",
+                        "power": "240",
+                        "light": "34400",
+                        "efficiency": "143",
+                        "size": "385х315х375"
+                    },
+                    {
+                        "name": "Светильник Econex Hell 240 D60 100°C 5000K 48VDC",
+                        "article": "1824012",
+                        "power": "240",
+                        "light": "34400",
+                        "efficiency": "143",
+                        "size": "385х315х375"
+                    },
+                    {
+                        "name": "Светильник Econex Hell 360 D90 70°C 5000K AN",
+                        "article": "1836001",
+                        "power": "330",
+                        "light": "45900",
+                        "efficiency": "139",
+                        "size": "385х290х375"
+                    },
+                    {
+                        "name": "Светильник Econex Hell 360 D60 70°C 5000K AN",
+                        "article": "1836002",
+                        "power": "330",
+                        "light": "45900",
+                        "efficiency": "139",
+                        "size": "385х290х375"
+                    },
+                    {
+                        "name": "Светильник Econex Hell 480 D90 70°C 5000K AN",
+                        "article": "1848001",
+                        "power": "440",
+                        "light": "61200",
+                        "efficiency": "139",
+                        "size": "385х315х375"
+                    },
+                    {
+                        "name": "Светильник Econex Hell 480 D60 70°C 5000K AN",
+                        "article": "1848002",
+                        "power": "440",
+                        "light": "61200",
+                        "efficiency": "139",
+                        "size": "385х315х375"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tНовая серия светильников для горячих цехов Econex Hell с модификациями, предназначенными для работы в помещениях с температурой окружающей среды  70°C и 100°C. Имеет высокую эффективность более 145 лм/Вт, а также различные модификации по мощностному ряду и КСС.\t\t\t\t\t"
+            },
+            {
+                "name": "Серия Arctic",
+                "type": "Промышленный светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex Arctic 18 Opal 4000K",
+                        "article": "4901801",
+                        "power": "17",
+                        "light": "2090",
+                        "efficiency": "123",
+                        "size": "670x90x100"
+                    },
+                    {
+                        "name": "Светильник Econex Arctic 18 Prism 4000K",
+                        "article": "4901805",
+                        "power": "17",
+                        "light": "2210",
+                        "efficiency": "130",
+                        "size": "670x90x100"
+                    },
+                    {
+                        "name": "Светильник Econex Arctic 36 Opal 4000K",
+                        "article": "4903601",
+                        "power": "34",
+                        "light": "4180",
+                        "efficiency": "123",
+                        "size": "1280x90x100"
+                    },
+                    {
+                        "name": "Светильник Econex Arctic 36 Opal 4000K EM",
+                        "article": "4903602",
+                        "power": "34",
+                        "light": "4180",
+                        "efficiency": "123",
+                        "size": "1280x90x100"
+                    },
+                    {
+                        "name": "Светильник Econex Arctic 36 Prism 4000K",
+                        "article": "4903605",
+                        "power": "34",
+                        "light": "4420",
+                        "efficiency": "130",
+                        "size": "1280x90x100"
+                    },
+                    {
+                        "name": "Светильник Econex Arctic 36 Prism 4000K EM",
+                        "article": "4903606",
+                        "power": "34",
+                        "light": "4420",
+                        "efficiency": "130",
+                        "size": "1280x90x100"
+                    },
+                    {
+                        "name": "Светильник Econex Arctic 46 Opal 4000K",
+                        "article": "4904601",
+                        "power": "43",
+                        "light": "5290",
+                        "efficiency": "123",
+                        "size": "1280x90x100"
+                    },
+                    {
+                        "name": "Светильник Econex Arctic 46 Opal 4000K EM",
+                        "article": "4904602",
+                        "power": "43",
+                        "light": "5290",
+                        "efficiency": "123",
+                        "size": "1280x90x100"
+                    },
+                    {
+                        "name": "Светильник Econex Arctic 46 Prism 4000K",
+                        "article": "4904605",
+                        "power": "43",
+                        "light": "5590",
+                        "efficiency": "130",
+                        "size": "1280x90x100"
+                    },
+                    {
+                        "name": "Светильник Econex Arctic 46 Prism 4000K EM",
+                        "article": "4904606",
+                        "power": "43",
+                        "light": "5590",
+                        "efficiency": "130",
+                        "size": "1280x90x100"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tEconex Arctic - новая серия светодиодных светильников, которая является прямым аналогом люминисцентных ламп. Разработана для освещения промышленных помещений, торговых залов, парковок, складских объектов и пр. В данной серии есть модификации светильников с блоком аварийного питания.\t\t\t\t\t"
+            }
+        ]
+    },
+    {
+        "name": "Внутреннее освещение",
+        "series": [
+            {
+                "name": "Серия Office 1200",
+                "type": "Офисный светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex Office 24 1200 Opal 4000K",
+                        "article": "4702412",
+                        "power": "31",
+                        "light": "3150",
+                        "efficiency": "102",
+                        "size": "1150х120х40"
+                    },
+                    {
+                        "name": "Светильник Econex Office 24 1200 Opal 4000K EM",
+                        "article": "4702422",
+                        "power": "31",
+                        "light": "3150",
+                        "efficiency": "102",
+                        "size": "1150х120х40"
+                    },
+                    {
+                        "name": "Светильник Econex Office 24 1200 Opal 4000K AN",
+                        "article": "4702432",
+                        "power": "31",
+                        "light": "3150",
+                        "efficiency": "102",
+                        "size": "1150х120х40"
+                    },
+                    {
+                        "name": "Светильник Econex Office 36 1200 Opal 4000K",
+                        "article": "4703612",
+                        "power": "46",
+                        "light": "4680",
+                        "efficiency": "102",
+                        "size": "1150х120х40"
+                    },
+                    {
+                        "name": "Светильник Econex Office 36 1200 Opal 4000K EM",
+                        "article": "4703622",
+                        "power": "46",
+                        "light": "4680",
+                        "efficiency": "102",
+                        "size": "1150х120х40"
+                    },
+                    {
+                        "name": "Светильник Econex Office 36 1200 Opal 4000K AN",
+                        "article": "4703632",
+                        "power": "46",
+                        "light": "4680",
+                        "efficiency": "102",
+                        "size": "1150х120х40"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tОфисные светильники серии Econex Office 1200 имеют современный дизайн, идеально подойдут под любое стилистическое решение в интерьере для офисно-административных и торговых помещений\t\t\t\t\t"
+            },
+            {
+                "name": "Серия Office 595",
+                "type": "Офисный светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex Office 24 595 EcoOpal 4000K",
+                        "article": "4002404",
+                        "power": "31",
+                        "light": "2780",
+                        "efficiency": "90",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 24 595 EcoPrism 4000K",
+                        "article": "4002408",
+                        "power": "31",
+                        "light": "3150",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 24 595 EcoOpal 4000K EM",
+                        "article": "4002424",
+                        "power": "31",
+                        "light": "2780",
+                        "efficiency": "90",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 24 595 EcoPrism 4000K EM",
+                        "article": "4002428",
+                        "power": "31",
+                        "light": "3150",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 24 595 EcoOpal 4000K AN",
+                        "article": "4002434",
+                        "power": "31",
+                        "light": "2780",
+                        "efficiency": "90",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 24 595 EcoPrism 4000K AN",
+                        "article": "4002438",
+                        "power": "31",
+                        "light": "3150",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 36 595 EcoOpal 4000K",
+                        "article": "4003604",
+                        "power": "46",
+                        "light": "4140",
+                        "efficiency": "90",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 36 595 EcoPrism 4000K",
+                        "article": "4003608",
+                        "power": "46",
+                        "light": "4680",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 36 595 EcoOpal 4000K EM",
+                        "article": "4003624",
+                        "power": "46",
+                        "light": "4140",
+                        "efficiency": "90",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 36 595 EcoPrism 4000K EM",
+                        "article": "4003628",
+                        "power": "46",
+                        "light": "4680",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 36 595 EcoOpal 4000K AN",
+                        "article": "4003634",
+                        "power": "46",
+                        "light": "4140",
+                        "efficiency": "90",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 36 595 EcoPrism 4000K AN",
+                        "article": "4003638",
+                        "power": "46",
+                        "light": "4680",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tОфисные светильники серии Econex Office предназначены для установки в офисных и других общественных помещениях. Отличная альтернатива традиционным растровым светильникам ЛВО 4x18\t\t\t\t\t"
+            },
+            {
+                "name": "Серия Office IP54",
+                "type": "Офисный светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex Office 24 595 EcoOpal 4000K IP54",
+                        "article": "1102412",
+                        "power": "31",
+                        "light": "2780",
+                        "efficiency": "90",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 24 595 EcoOpal 4000K IP54 EM",
+                        "article": "1102414",
+                        "power": "31",
+                        "light": "2780",
+                        "efficiency": "90",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 24 595 EcoOpal 4000K IP54 AN",
+                        "article": "1102416",
+                        "power": "31",
+                        "light": "2780",
+                        "efficiency": "90",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 24 595 EcoPrism 4000K IP54",
+                        "article": "1102422",
+                        "power": "31",
+                        "light": "3150",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 24 595 EcoPrism 4000K IP54 EM",
+                        "article": "1102424",
+                        "power": "31",
+                        "light": "3150",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 24 595 EcoPrism 4000K IP54 AN",
+                        "article": "1102426",
+                        "power": "31",
+                        "light": "3150",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 24 595 GlassPrism 4000K IP54",
+                        "article": "1102432",
+                        "power": "31",
+                        "light": "3150",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 24 595 GlassPrism 4000K IP54 EM",
+                        "article": "1102434",
+                        "power": "31",
+                        "light": "3150",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 24 595 GlassPrism 4000K IP54 AN",
+                        "article": "1102436",
+                        "power": "31",
+                        "light": "3150",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 24 595 TriplexPrism 4000K IP54",
+                        "article": "1102442",
+                        "power": "31",
+                        "light": "3150",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 24 595 TriplexPrism 4000K IP54 EM",
+                        "article": "1102444",
+                        "power": "31",
+                        "light": "3150",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 24 595 TriplexPrism 4000K IP54 AN",
+                        "article": "1102446",
+                        "power": "31",
+                        "light": "3150",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 36 595 EcoOpal 4000K IP54",
+                        "article": "1103612",
+                        "power": "46",
+                        "light": "4130",
+                        "efficiency": "90",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 36 595 EcoOpal 4000K IP54 EM",
+                        "article": "1103614",
+                        "power": "46",
+                        "light": "4130",
+                        "efficiency": "90",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 36 595 EcoOpal 4000K IP54 AN",
+                        "article": "1103616",
+                        "power": "46",
+                        "light": "4130",
+                        "efficiency": "90",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 36 595 EcoPrism 4000K IP54",
+                        "article": "1103622",
+                        "power": "46",
+                        "light": "4680",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 36 595 EcoPrism 4000K IP54 EM",
+                        "article": "1103624",
+                        "power": "46",
+                        "light": "4680",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 36 595 EcoPrism 4000K IP54 AN",
+                        "article": "1103626",
+                        "power": "46",
+                        "light": "4680",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 36 595 GlassPrism 4000K IP54",
+                        "article": "1103632",
+                        "power": "46",
+                        "light": "4680",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 36 595 GlassPrism 4000K IP54 EM",
+                        "article": "1103634",
+                        "power": "46",
+                        "light": "4680",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 36 595 GlassPrism 4000K IP54 AN",
+                        "article": "1103636",
+                        "power": "46",
+                        "light": "4680",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 36 595 TriplexPrism 4000K IP54",
+                        "article": "1103642",
+                        "power": "46",
+                        "light": "4680",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 36 595 TriplexPrism 4000K IP54 EM",
+                        "article": "1103644",
+                        "power": "46",
+                        "light": "4680",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    },
+                    {
+                        "name": "Светильник Econex Office 36 595 TriplexPrism 4000K IP54 AN",
+                        "article": "1103646",
+                        "power": "46",
+                        "light": "4680",
+                        "efficiency": "102",
+                        "size": "595x595x45"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tСерия Econex Office IP54 предназначена для установки в промышленных чистых помещениях, медицинских учреждениях и других объектах. Комфортные и естественный свет создает благоприятную атмосферу в любом помещении.\t\t\t\t\t"
+            },
+            {
+                "name": "Серия Downlight",
+                "type": "Офисный светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex Downlight 20 4000К",
+                        "article": "1302005",
+                        "power": "19",
+                        "light": "2100",
+                        "efficiency": "110",
+                        "size": "Ø85х55"
+                    },
+                    {
+                        "name": "Светильник Econex Downlight 20 4000К EM",
+                        "article": "1302006",
+                        "power": "19",
+                        "light": "2100",
+                        "efficiency": "110",
+                        "size": "Ø85х55"
+                    },
+                    {
+                        "name": "Светильник Econex Downlight 30 4000К",
+                        "article": "1303005",
+                        "power": "28",
+                        "light": "3100",
+                        "efficiency": "110",
+                        "size": "Ø225х55"
+                    },
+                    {
+                        "name": "Светильник Econex Downlight 30 4000К EM",
+                        "article": "1303006",
+                        "power": "28",
+                        "light": "3100",
+                        "efficiency": "110",
+                        "size": "Ø225х55"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tСветильники серии Econex Downlight предназначены для установки в коридорах, вестибюлях, коридорах, холлах, фойе, магазинах, автосалонах, торговых центрах и любых офисных, административных помещений. Отличная альтернатива потолочным светильникам с компактным люминесцентными лампами (КЛЛ)\t\t\t\t\t"
+            },
+            {
+                "name": "Серия Budget",
+                "type": "Бытовой светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex Budget 12 IP65",
+                        "article": "2301211",
+                        "power": "10",
+                        "light": "900",
+                        "efficiency": "90",
+                        "size": "Ø220х65"
+                    },
+                    {
+                        "name": "Светильник Econex Budget 12 IP65 MS",
+                        "article": "2301212",
+                        "power": "15",
+                        "light": "1200",
+                        "efficiency": "80",
+                        "size": "Ø222х77"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tНевысокая стоимость бытовых светильников серии Econex Budget, его надежная конструкция и длительный срок службы позволяет существенно снизить платежи за электроэнергию ТСЖ, управляющим компаниям и другим предприятиям\t\t\t\t\t"
+            }
+        ]
+    },
+    {
+        "name": "Аварийное освещение",
+        "series": [
+            {
+                "name": "Серия Antares",
+                "type": "Аварийный светильник",
+                "models": [
+                    {
+                        "name": "Световой указатель Econex Antares \"Выход\"",
+                        "article": "6310431",
+                        "power": "4",
+                        "light": "120",
+                        "efficiency": "30",
+                        "size": "352x118x225"
+                    },
+                    {
+                        "name": "Световой указатель Econex Antares \"Выход/Exit\"",
+                        "article": "6310432",
+                        "power": "4",
+                        "light": "120",
+                        "efficiency": "30",
+                        "size": "352x118x225"
+                    },
+                    {
+                        "name": "Световой указатель Econex Antares \"Запасный выход\"",
+                        "article": "6310433",
+                        "power": "4",
+                        "light": "120",
+                        "efficiency": "30",
+                        "size": "352x118x225"
+                    },
+                    {
+                        "name": "Световой указатель Econex Antares \"Выход прямо\"",
+                        "article": "6310434",
+                        "power": "4",
+                        "light": "120",
+                        "efficiency": "30",
+                        "size": "352x118x225"
+                    },
+                    {
+                        "name": "Световой указатель Econex Antares \"Выход направо/налево\"",
+                        "article": "6310435",
+                        "power": "4",
+                        "light": "120",
+                        "efficiency": "30",
+                        "size": "352x118x225"
+                    },
+                    {
+                        "name": "Световой указатель Econex Antares \"Выход вверх направо/налево\"",
+                        "article": "6310436",
+                        "power": "4",
+                        "light": "120",
+                        "efficiency": "30",
+                        "size": "352x118x225"
+                    },
+                    {
+                        "name": "Световой указатель Econex Antares \"Выход вниз направо/налево\"",
+                        "article": "6310437",
+                        "power": "4",
+                        "light": "120",
+                        "efficiency": "30",
+                        "size": "352x118x225"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tСветовой указатель серии Antares предназначены для обеспечения аварийно-эвакуационного освещения в общественных, административных помещениях с высоким уровнем содержания влаги и пыли, а также могут использоваться для указания направления эвакуации (пиктограммы в комплекте). \n\nАварийная работа указателя осуществляется от встроенного аккумулятора. Дальность распознавания 16 м. Соответствуют требованиям ГОСТ Р МЭК 60598-2-22 по аварийному освещению. \n"
+            },
+            {
+                "name": "Серия Sirius",
+                "type": "Аварийный светильник",
+                "models": [
+                    {
+                        "name": "Светильник аварийный Econex Sirius постоянного действия",
+                        "article": "6110431",
+                        "power": "4",
+                        "light": "120",
+                        "efficiency": "30",
+                        "size": "352x118x80"
+                    },
+                    {
+                        "name": "Светильник аварийный Econex Sirius непостоянного действия",
+                        "article": "6120431",
+                        "power": "4",
+                        "light": "120",
+                        "efficiency": "30",
+                        "size": "352x118x80"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tСветильники аварийные серии Sirius оборудованы блоком аварийного питания, который обеспечивает работу изделия в режиме аварийного освещения.\n\nСветильники аварийные серии Sirius предназначены для обеспечения аварийно-эвакуационного освещения в общественных, административных помещениях с высоким уровнем содержания влаги и пыли, а также могут использоваться для указания направления эвакуации (пиктограммы в комплект поставки не входят). Аварийная работа светильников осуществляется от встроенного аккумулятора. Дальность распознавания 16 м. Соответствуют требованиям ГОСТ Р МЭК 60598-2-22 по аварийному освещению. \n"
+            },
+            {
+                "name": "Серия Vegas",
+                "type": "Аварийный светильник",
+                "models": [
+                    {
+                        "name": "Световой указатель Econex Vegas \"Выход\"",
+                        "article": "6210231",
+                        "power": "2",
+                        "light": "40",
+                        "efficiency": "20",
+                        "size": "365x180x27"
+                    },
+                    {
+                        "name": "Световой указатель Econex Vegas \"Выход/Exit\"",
+                        "article": "6210232",
+                        "power": "2",
+                        "light": "40",
+                        "efficiency": "20",
+                        "size": "365x180x27"
+                    },
+                    {
+                        "name": "Световой указатель Econex Vegas \"Запасный выход\"",
+                        "article": "6210233",
+                        "power": "2",
+                        "light": "40",
+                        "efficiency": "20",
+                        "size": "365x180x27"
+                    },
+                    {
+                        "name": "Световой указатель Econex Vegas \"Выход прямо\"",
+                        "article": "6210234",
+                        "power": "2",
+                        "light": "40",
+                        "efficiency": "20",
+                        "size": "365x180x27"
+                    },
+                    {
+                        "name": "Световой указатель Econex Vegas \"Выход направо/налево\"",
+                        "article": "6210235",
+                        "power": "2",
+                        "light": "40",
+                        "efficiency": "20",
+                        "size": "365x180x27"
+                    },
+                    {
+                        "name": "Световой указатель Econex Vegas \"Выход вверх направо/налево\"",
+                        "article": "6210236",
+                        "power": "2",
+                        "light": "40",
+                        "efficiency": "20",
+                        "size": "365x180x27"
+                    },
+                    {
+                        "name": "Световой указатель Econex Vegas \"Выход вниз направо/налево\"",
+                        "article": "6210237",
+                        "power": "2",
+                        "light": "40",
+                        "efficiency": "20",
+                        "size": "365x180x27"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tСветовой указатель серии Vegas предназначен для обеспечение постоянного минимально необходимого уровня освещённости путей эвакуации и аварийно-сигнального обозначения выходов в промышленных, общественных и бытовых помещениях в отсутствии задымления. Аварийная работа светильников осуществляется от встроенного аккумулятора. Дальность распознавания 16 м. Соответствуют требованиям ГОСТ Р МЭК 60598-2-22 по аварийному освещению \n"
+            }
+        ]
+    },
+    {
+        "name": "Взрывозащищенные светильники",
+        "series": [
+            {
+                "name": "Серия PowerX Ex",
+                "type": "Взрывозащищенный светильник",
+                "models": [
+                    {
+                        "name": "Светильник Econex PowerX Ex 20 D90 5000K",
+                        "article": "1602001",
+                        "power": "16",
+                        "light": "2000",
+                        "efficiency": "125",
+                        "size": "265х115х280"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX Ex 20 D60 5000K",
+                        "article": "1602003",
+                        "power": "16",
+                        "light": "2000",
+                        "efficiency": "125",
+                        "size": "265х115х280"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX Ex 30 D90 5000K",
+                        "article": "1603001",
+                        "power": "27",
+                        "light": "3300",
+                        "efficiency": "122",
+                        "size": "265х115х280"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX Ex 30 D60 5000K",
+                        "article": "1603003",
+                        "power": "27",
+                        "light": "3300",
+                        "efficiency": "122",
+                        "size": "265х115х280"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX Ex 60 D90 5000K",
+                        "article": "1606001",
+                        "power": "57",
+                        "light": "6800",
+                        "efficiency": "120",
+                        "size": "265х115х370"
+                    },
+                    {
+                        "name": "Светильник Econex PowerX Ex 60 D60 5000K",
+                        "article": "1606003",
+                        "power": "57",
+                        "light": "6800",
+                        "efficiency": "120",
+                        "size": "265х115х370"
+                    }
+                ],
+                "desc": "\n\t\t\t\t\t\tСерия взрывозащищенных светильников 1-го класса с эффективностью более 120 лм/Вт предназначена для освещения взрывоопасных зон на предприятиях нефтегазовой, нефтехимической промышленности и др. Высота подвеса может достигать 60 метров\t\t\t\t\t"
+            }
+        ]
+    }
+]

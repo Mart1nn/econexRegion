@@ -1,0 +1,50 @@
+<div id="sidebar">
+    <div class="inner">
+
+        <!-- Search -->
+
+
+
+        <!-- Menu -->
+        <nav id="menu">
+            <header class="major">
+                <h2><a href="{% url 'posts_list_url'%}">Эконекс Регион</a></h2>
+            </header>
+            <header class="major">
+                <h2>Каталог</h2>
+            </header>
+            <ul>
+                {% for category in categores %}
+                <li><a href="#category-{{ category.pk }}">{{ category.name }}</a></li>
+                {% endfor %}
+            </ul>
+        </nav>
+
+        <section>
+            <header class="major">
+                <h2>Акция</h2>
+            </header>
+            <p><strong>ПРИ ПОКУПКЕ ОТ 5 ФОНАРЕЙ СКИДКА 5%</strong></p>
+        </section>
+
+        <!-- Section -->
+        <section>
+
+            <header class="major">
+                <h2>Контакты</h2>
+            </header>
+
+            <p><strong>Работаем по всему краснодарскому краю</strong>
+                <br>
+                <strong>И республике Крым</strong></p>
+
+            <ul class="contact">
+                <li class="fa-telegram">89184487831<p>Мартюшенко Олег Викторович Сотовый, Telegram, WhatsApp </li>
+                <li class="fa-home">Краснодар, проспект Чекистов, д. 37<br /></li>
+                <li class="fa-envelope">ovm@econex.ru</li>
+            </ul>
+
+        </section>
+
+    </div>
+</div>

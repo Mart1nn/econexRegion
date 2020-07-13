@@ -1,0 +1,34 @@
+<section id="banner">
+    <div class="content" id="anchor_form">
+
+        <form action="{% url 'contact_url' %}" method="POST">
+            {% csrf_token %}
+            <legend></legend>
+
+            <div class="form-group">
+                <label for="">Введите ваше имя</label>
+                <input type="text" class="form-control" id="" name="user_name" placeholder="Например, Иван"
+                    style="border: solid 2px #f56a6a !important;">
+            </div>
+            <br>
+            <div class="form-group">
+                <label for="">Введите номер телефона</label>
+                <input type="text" class="form-control" id="" name="user_phone" placeholder="+7 (999) 99 99 999"
+                    style="border: solid 2px #f56a6a !important;">
+            </div>
+            <br>
+            <div class="form-group">
+                <label for="">Введите сообщение</label>
+                <input type="text" class="form-control" id="" name="user_email" placeholder="Сообщение"
+                    style="border: solid 2px #f56a6a !important;">
+            </div>
+            <br>
+            <button type="submit" class="btn btn-primary">Отправить</button>
+        </form>
+    </div>
+    <span class="image object">
+        <script type="text/javascript" charset="utf-8" async
+            src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A25d59608ad071335b02a3fd158d51572e44072cef63a966309f7a539f34a0851&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=true">
+        </script>
+    </span>
+</section>
